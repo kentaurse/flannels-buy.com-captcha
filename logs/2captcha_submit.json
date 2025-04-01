@@ -1,0 +1,11 @@
+{
+    "key": "ee9efcbefaff55cd53ca7c5926a378f8",
+    "method": "userrecaptcha",
+    "googlekey": "6LcdJyUUAAAAAA73J4ruwiiYePa_D3s1um9TA7m6",
+    "pageurl": "https:\/\/www.flannels.com\/login",
+    "json": true,
+    "isInvisible": true,
+    "userAgent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36",
+    "proxytype": "HTTP",
+    "proxy": "gCbZJr:Cru2Ps@168.80.201.165:8000"
+}
